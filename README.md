@@ -1,36 +1,36 @@
 Information Gathering
 
-1. Retrieve and Analyze the robot.txt files by using a tool called GNU Wget.
+  1. Retrieve and Analyze the robot.txt files by using a tool called GNU Wget.
 
-2.Examine the version of software.database Details, the error technical component, bugs by the error codes by requesting invalid pages.
+  2.Examine the version of software.database Details, the error technical component, bugs by the error codes by requesting invalid pages.
 
-3.Implement the techniques such as DNS inverse queries, DNS zone Transfers, web based DNS Searches.
+  3.Implement the techniques such as DNS inverse queries, DNS zone Transfers, web based DNS Searches.
 
-4.Perform Directory style Searching and vulnerability scanning, Probe for URLs, using tools such as NMAP and Nessus.
+  4.Perform Directory style Searching and vulnerability scanning, Probe for URLs, using tools such as NMAP and Nessus.
 
-5.Identify the Entry point of the application using OWSAP ZAP, Burb Proxy, TemperIE, WebscarabTemper Data.
+  5.Identify the Entry point of the application using OWSAP ZAP, Burb Proxy, TemperIE, WebscarabTemper Data.
 
-6.By using traditional Fingerprint Tool such as Nmap,Amap, perform TCP/ICMP  ansd service Fingerprinting.
+  6.By using traditional Fingerprint Tool such as Nmap,Amap, perform TCP/ICMP  ansd service Fingerprinting.
 
-7 .By Requesting Common File Extension such as .ASP, .EXE, .HTML, .PHP ,Test for recognized file types/Extensions/Directories.
+  7 .By Requesting Common File Extension such as .ASP, .EXE, .HTML, .PHP ,Test for recognized file types/Extensions/Directories.
 
-8.Examine the Sources code From the Accessing Pages of the Application front end.
+  8.Examine the Sources code From the Accessing Pages of the Application front end.
 
 Authentication Testing
 
-1.Check if it is possible to “reuse” the session after Logout.also check if the application automatically logs out a user has idle for a certain amount of time.
+  1.Check if it is possible to “reuse” the session after Logout.also check if the application automatically logs out a user has idle for    a certain amount of time.
 
-2.Check whether any sensitive information  Remain Stored stored in browser cache.
+  2.Check whether any sensitive information  Remain Stored stored in browser cache.
 
-3.Check and try to Reset the password, by social engineering crack secretive questions and guessing.
+  3.Check and try to Reset the password, by social engineering crack secretive questions and guessing.
 
-4.check if the “Remember my password” Mechanism is implemented by checking the HTML code of the login page.
+  4.check if the “Remember my password” Mechanism is implemented by checking the HTML code of the login page.
 
-5.Check if the hardware devices directly communicate and independently with authentication infrastructure using additional communication channel.
+  5.Check if the hardware devices directly communicate and independently with authentication infrastructure using additional      communication channel.
 
-6. Test CAPTCHA for authentication vulnerabilities presented or not.
+  6. Test CAPTCHA for authentication vulnerabilities presented or not.
 
-7.Check whether any weak security questions/Answer are presented.
+  7.Check whether any weak security questions/Answer are presented.
 
 Authorization Testing
 
